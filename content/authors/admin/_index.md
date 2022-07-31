@@ -1,8 +1,7 @@
 ---
 title: Jian
 role: TBD
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include TBD
 interests:
   - Artificial Intelligence
   - Computational Linguistics
